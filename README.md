@@ -1,4 +1,4 @@
-# Sequelize
-BurgerSequel
+# Burger
+Burger Sequelize
 
 Homework Burger with Sequelize
