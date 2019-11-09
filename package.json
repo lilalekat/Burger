@@ -1,0 +1,23 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "BurgerSequel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilalekat/Sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilalekat/Sequelize/issues"
+  },
+  "homepage": "https://github.com/lilalekat/Sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
