@@ -1,8 +1,8 @@
 
-     Burger Sequelize
+                                                  Burger Sequelize
 
 
-  <strong>Eat The Burger!!!🍔</strong>
+<strong>Eat The Burger!!!🍔</strong>
   ___________
    
 Welcome to Eat The Burger!!! 🍔In this app, you have the option to eat as many burgers as you want! Yass, this is a judgement free zone! 🙅‍♀️ So, eat as many burgers that your heart can hold! This app is a simple burger logger that was created with MySQL, Node, Express and Sequelize as the ORM! Following an MVC design, using MySQL and Node to query and route data into the app, the Eat the Burger app allows users to input the names of as many bugers that they would like to eat! Yum, Yum, Enjoy!! 😋
